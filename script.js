@@ -23,6 +23,7 @@ btnStart.addEventListener("click", () => {
   clickStopCounter = 0;
 });
 
+
 btnStop.addEventListener("click", () => {
   clearInterval(timerId);
   enableBtn(btnStart);
