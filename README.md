@@ -2,4 +2,4 @@
  
 Create the simple timer
 
-[WATCH Demo](https://stoyangalchev.github.io/simple-timer/)
+[WATCH Demo]()
